@@ -56,7 +56,7 @@ Material:
     m_Colors:
     - Color_CCA0BA5F: {r: 1.9999998, g: 0.9477571, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &9151284307266663744
+--- !u!114 &8346723942774804985
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
